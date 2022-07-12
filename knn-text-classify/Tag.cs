@@ -1,0 +1,5 @@
+﻿enum Tag
+{
+    Wrong,
+    Good
+}
